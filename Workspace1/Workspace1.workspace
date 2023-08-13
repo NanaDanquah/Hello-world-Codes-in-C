@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace1" Database="" Version="10000">
+  <Project Name="HelloWorld" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Age" Path="Age/Age.project" Active="No"/>
+  <Project Name="minutesinDaysandYearsChallenge" Path="minutesinDaysandYearsChallenge/minutesinDaysandYearsChallenge.project" Active="No"/>
+  <Project Name="SizzeofOperators" Path="SizzeofOperators/SizzeofOperators.project" Active="No"/>
+  <Project Name="LoopsChallenge" Path="LoopsChallenge/LoopsChallenge.project" Active="Yes"/>
+  <Project Name="GuessTheNumber" Path="GuessTheNumber/GuessTheNumber.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="HelloWorld" ConfigName="Debug"/>
+      <Project Name="Age" ConfigName="Debug"/>
+      <Project Name="minutesinDaysandYearsChallenge" ConfigName="Debug"/>
+      <Project Name="SizzeofOperators" ConfigName="Debug"/>
+      <Project Name="LoopsChallenge" ConfigName="Debug"/>
+      <Project Name="GuessTheNumber" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="HelloWorld" ConfigName="Release"/>
+      <Project Name="Age" ConfigName="Release"/>
+      <Project Name="minutesinDaysandYearsChallenge" ConfigName="Release"/>
+      <Project Name="SizzeofOperators" ConfigName="Release"/>
+      <Project Name="LoopsChallenge" ConfigName="Release"/>
+      <Project Name="GuessTheNumber" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,6 @@
+C:\Users\Gabby\Workspaces\Workspace1\GuessTheNumber\main.c
+C:\Users\Gabby\Workspaces\Workspace1\LoopsChallenge\main.c
+C:\Users\Gabby\Workspaces\Workspace1\minutesinDaysandYearsChallenge\main.c
+C:\Users\Gabby\Workspaces\Workspace1\Project1\main.c
+C:\Users\Gabby\Workspaces\Workspace1\Age\main.c
+C:\Users\Gabby\Workspaces\Workspace1\SizzeofOperators\main.c

@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\GuessTheNumber\\main.c",
+  "directory": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\GuessTheNumber",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Gabby\\Workspaces\\Workspace1\\GuessTheNumber\\main.c -o C:\\Users\\Gabby\\Workspaces\\Workspace1\\GuessTheNumber\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\LoopsChallenge\\main.c",
+  "directory": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\LoopsChallenge",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Gabby\\Workspaces\\Workspace1\\LoopsChallenge\\main.c -o C:\\Users\\Gabby\\Workspaces\\Workspace1\\LoopsChallenge\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\minutesinDaysandYearsChallenge\\main.c",
+  "directory": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\minutesinDaysandYearsChallenge",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Gabby\\Workspaces\\Workspace1\\minutesinDaysandYearsChallenge\\main.c -o C:\\Users\\Gabby\\Workspaces\\Workspace1\\minutesinDaysandYearsChallenge\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\Project1\\main.c",
+  "directory": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\Project1",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Gabby\\Workspaces\\Workspace1\\Project1\\main.c -o C:\\Users\\Gabby\\Workspaces\\Workspace1\\Project1\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\Age\\main.c",
+  "directory": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\Age",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Gabby\\Workspaces\\Workspace1\\Age\\main.c -o C:\\Users\\Gabby\\Workspaces\\Workspace1\\Age\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\SizzeofOperators\\main.c",
+  "directory": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\SizzeofOperators",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Gabby\\Workspaces\\Workspace1\\SizzeofOperators\\main.c -o C:\\Users\\Gabby\\Workspaces\\Workspace1\\SizzeofOperators\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
