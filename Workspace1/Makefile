@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ LoopsChallenge - Debug ]----------"
-	@cd "LoopsChallenge" && "$(MAKE)" -f  "LoopsChallenge.mk"
+	@echo "----------Building project:[ Array - Debug ]----------"
+	@cd "Array" && "$(MAKE)" -f  "Array.mk"
 clean:
-	@echo "----------Cleaning project:[ LoopsChallenge - Debug ]----------"
-	@cd "LoopsChallenge" && "$(MAKE)" -f  "LoopsChallenge.mk" clean
+	@echo "----------Cleaning project:[ Array - Debug ]----------"
+	@cd "Array" && "$(MAKE)" -f  "Array.mk" clean

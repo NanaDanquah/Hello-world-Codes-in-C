@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\Array\\main.c",
+  "directory": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\Array",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Gabby\\Workspaces\\Workspace1\\Array\\main.c -o C:\\Users\\Gabby\\Workspaces\\Workspace1\\Array\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\GuessTheNumber\\main.c",
   "directory": "C:\\Users\\Gabby\\Workspaces\\Workspace1\\GuessTheNumber",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Gabby\\Workspaces\\Workspace1\\GuessTheNumber\\main.c -o C:\\Users\\Gabby\\Workspaces\\Workspace1\\GuessTheNumber\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"

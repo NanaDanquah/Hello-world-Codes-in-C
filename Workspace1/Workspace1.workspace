@@ -4,8 +4,9 @@
   <Project Name="Age" Path="Age/Age.project" Active="No"/>
   <Project Name="minutesinDaysandYearsChallenge" Path="minutesinDaysandYearsChallenge/minutesinDaysandYearsChallenge.project" Active="No"/>
   <Project Name="SizzeofOperators" Path="SizzeofOperators/SizzeofOperators.project" Active="No"/>
-  <Project Name="LoopsChallenge" Path="LoopsChallenge/LoopsChallenge.project" Active="Yes"/>
+  <Project Name="LoopsChallenge" Path="LoopsChallenge/LoopsChallenge.project" Active="No"/>
   <Project Name="GuessTheNumber" Path="GuessTheNumber/GuessTheNumber.project" Active="No"/>
+  <Project Name="Array" Path="Array/Array.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -15,6 +16,7 @@
       <Project Name="SizzeofOperators" ConfigName="Debug"/>
       <Project Name="LoopsChallenge" ConfigName="Debug"/>
       <Project Name="GuessTheNumber" ConfigName="Debug"/>
+      <Project Name="Array" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -24,6 +26,7 @@
       <Project Name="SizzeofOperators" ConfigName="Release"/>
       <Project Name="LoopsChallenge" ConfigName="Release"/>
       <Project Name="GuessTheNumber" ConfigName="Release"/>
+      <Project Name="Array" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
